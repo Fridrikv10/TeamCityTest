@@ -5,7 +5,7 @@ import junit.framework.*;
 
 public class TestMath extends TestCase { 
 
-    public MathD mathD = new MathD();
+    private MathD mathD = new MathD();
 
   protected void setUp() { 
     	
