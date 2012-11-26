@@ -1,5 +1,4 @@
 import junit.framework.*;
-import MathD;
 
 public class TestMath extends TestCase { 
 
