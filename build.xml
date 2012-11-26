@@ -56,7 +56,7 @@
 		
  		  <batchtest fork="yes" todir="${reports}/raw/">
 		  	<formatter type="xml"/>
-		    <fileset dir="${src}">
+		    <fileset dir="tets">
 		      <include name="**/*Test*.java"/>
 		    </fileset>
 		  </batchtest>
