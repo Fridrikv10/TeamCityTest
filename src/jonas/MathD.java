@@ -1,3 +1,5 @@
+package jonas;
+
 public class MathD {
 
     public MathD(){

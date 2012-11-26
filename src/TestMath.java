@@ -1,3 +1,4 @@
+import jonas.MathD;
 import junit.framework.*;
 
 public class TestMath extends TestCase { 
