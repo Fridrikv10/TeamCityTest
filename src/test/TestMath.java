@@ -1,3 +1,5 @@
+package test;
+
 import jonas.MathD;
 import junit.framework.*;
 
